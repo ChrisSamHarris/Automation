@@ -18,3 +18,5 @@ if response.status_code == 200:
 
 else:
     print("Connection Failure.")
+
+#Future task - Python & CronJob (possibly schedule? ) - Create a Python job that gets the days weather and then create an email to send the weather forecast to my email in the morning
